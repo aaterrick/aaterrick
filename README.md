@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaterrick
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning market analytics
+- 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me:
       E-Mail: terricka@msu.edu
